@@ -1,0 +1,35 @@
+﻿# createnew — моды Create: Aeronautics  Minecraft **1.21.1**, загрузчик **NeoForge**. Модов: **32**, объём: **103,2 МБ**.
+- `addictives-4.0.5-neoforge.jar` — 0,9 МБ
+- `aero_cam_sync-1.4.0.jar` — 0,9 МБ
+- `aeroencasedpipe-1.0.7.jar` — 0,1 МБ
+- `AeroPropBlur-1.21.1-1.0a.jar` — 0,0 МБ
+- `arcon-1.0.0.jar` — 1,7 МБ
+- `cbc_at_Neoforge_1.21.1_0.1.4c.jar` — 1,4 МБ
+- `cbc_going_ballistic-0.3.2.jar` — 0,2 МБ
+- `CBCmoreshells-1.5.1.jar` — 2,8 МБ
+- `copycats-3.0.11-mc.1.21.1-neoforge.jar` — 1,7 МБ
+- `create_aero_radar-0.1.1-1.21.1.jar` — 0,2 МБ
+- `create_radar-5.1.1-1.21.1.jar` — 5,5 МБ
+- `Create_Warnautics-1.1+mc.1.21.1.jar` — 4,2 МБ
+- `create-1.21.1-6.0.10.jar` — 18,2 МБ
+- `create-aeronautics-bundled-1.21.1-1.3.2.jar` — 31,6 МБ
+- `CreateAeronauticsCopycatWing-1.21.1-1.0.4.jar` — 0,1 МБ
+- `createbigcannons-5.11.7%2Bmc.1.21.1.jar` — 3,6 МБ
+- `createclothes-1.0-1.21.1.jar` — 0,3 МБ
+- `createnucleartech-0.1.jar` — 2,7 МБ
+- `crowns-1.21.1-2.2.5.jar` — 1,2 МБ
+- `dyeable-components-1.0.4%2Bmc1.21.1.jar` — 0,2 МБ
+- `formicapi-1.21.1-2.5.1.jar` — 0,9 МБ
+- `interiors-0.6.1%20v3.jar` — 0,4 МБ
+- `iris-neoforge-1.8.14-beta.1%2Bmc1.21.1.jar` — 2,4 МБ
+- `irisveil-0.4.0.jar` — 0,9 МБ
+- `morepropulsion-1.4.0.jar` — 0,9 МБ
+- `ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar` — 0,1 МБ
+- `s_a_b-1.4.3-neoforge-1.21.1.jar` — 1,7 МБ
+- `sablemassview-1.0.0.jar` — 0,0 МБ
+- `sable-neoforge-1.21.1-2.0.6.jar` — 12,4 МБ
+- `sodium-neoforge-0.8.13%2Bmc1.21.1.jar` — 1,2 МБ
+- `submarinefix-1.0.1.jar` — 0,0 МБ
+- `tfmg-1.2.2.jar` — 4,8 МБ
+
+Собрано для игры на сервере (Create + Create: Aeronautics + Create Big Cannons и аддоны).
